@@ -1,0 +1,5 @@
+robolectric/v3/runtime/*.jar filter=lfs diff=lfs merge=lfs -text
+lisa/ipynb/tutorial/example_results/trace.dat filter=lfs diff=lfs merge=lfs -text
+chromium-webview/prebuilt/arm64/webview.apk filter=lfs diff=lfs merge=lfs -text
+chromium-webview/prebuilt/x86/webview.apk filter=lfs diff=lfs merge=lfs -text
+chromium-webview/prebuilt/x86_64/webview.apk filter=lfs diff=lfs merge=lfs -text
