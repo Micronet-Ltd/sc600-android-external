@@ -1,7 +1,6 @@
 /* config.h.  Generated from config.h.in by configure.  */
 /* config.h.in.  Generated from configure.ac by autoheader.  */
 
-
 /* Default visibility */
 #define DEFAULT_VISIBILITY __attribute__((visibility("default")))
 
